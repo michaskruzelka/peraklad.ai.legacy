@@ -1,0 +1,13 @@
+{
+	"name": "remark",
+	"description": "Remark is a premium admin dashboard template based on Bootstrap. There are a huge of powerful components build with Less css which makes it easy to modify.",
+	"author": [
+		{
+			"name": "amazingSurge",
+			"email": "support@amazingsurge.com"
+		}
+	],
+	"files": [
+		"theme.php"
+	]
+}

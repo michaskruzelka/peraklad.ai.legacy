@@ -1,0 +1,15 @@
+{
+    "name": "Tour",
+    "alias": "tour",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Tour\\Providers\\TourServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}

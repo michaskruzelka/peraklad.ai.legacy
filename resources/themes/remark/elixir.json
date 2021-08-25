@@ -1,0 +1,5 @@
+{
+  "assetsPath": "assets",
+  "publicPath": "../../../public/themes/remark",
+  "versioning.buildFolder": "themes/remark/build"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Breadcrumbs",
+    "alias": "breadcrumbs",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Breadcrumbs\\Providers\\BreadcrumbsServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
